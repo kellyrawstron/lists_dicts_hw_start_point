@@ -96,5 +96,5 @@ kelly = {"Kelly": {
     ]
   }
 }
-users = kelly
+users.update(kelly)
 print(users)
